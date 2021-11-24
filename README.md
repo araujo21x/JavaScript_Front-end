@@ -44,4 +44,6 @@ _____
       * Firebase.
  <br>
  
+ <h3 align="center"> Extras </h3>
  
+ * [Alguns cursos de HTML5 e CSS3 que cursei na plataforma Alura](https://github.com/araujo21x/Cursos_Alura/tree/master/Forma%C3%A7%C3%A3o%20HTML%20e%20CSS):
