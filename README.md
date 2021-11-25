@@ -36,14 +36,6 @@ _____
       * Firebase.
  <br>
  
-  * [Formulário PPPIV](https://github.com/araujo21x/app-PPPIV):
-    * Descrição: App produzido na disciplina de de PPP IV(Políticas e Práticas Pedagógicas IV). O app é um formulário simples para recolher algumas informações para um projeto de divulgação do curso.
-    * Principais tecnologias:
-      * TypeScript;
-      * Ionic 3;
-      * Firebase.
- <br>
- 
  <h3 align="center"> Extras </h3>
  
  * [Alguns cursos de HTML5 e CSS3 que cursei na plataforma Alura](https://github.com/araujo21x/Cursos_Alura/tree/master/Forma%C3%A7%C3%A3o%20HTML%20e%20CSS).
