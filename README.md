@@ -25,6 +25,9 @@ _____
       * CSS3;
       * Socket.io.
  <br>
+
+
+ <h3 align="center"> JavaScript - ReactJs <img align="center" alt="icon-react-js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></h3>
  
  <h3 align="center"> Framework Ionic <img align="center" alt="icon-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"></h3>
  
