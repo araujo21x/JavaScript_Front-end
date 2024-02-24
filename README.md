@@ -36,7 +36,7 @@ _____
       * Socket.io.
  <br>
 
-    * [Lista de contatos](https://github.com/araujo21x/my_contacts):
+   * [Lista de contatos](https://github.com/araujo21x/my_contacts):
     * Descrição: Front-end com uma lista de usuarios usando uma api publica de lista de usuarios;
     * Principais tecnologias:
       * TypeScript;
