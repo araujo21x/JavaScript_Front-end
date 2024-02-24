@@ -28,6 +28,22 @@ _____
 
 
  <h3 align="center"> JavaScript - ReactJs <img align="center" alt="icon-react-js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></h3>
+   * [Chat em tempo real](https://github.com/araujo21x/chat_react_front):
+    * Descrição: Front-end de um projeto que é um chat com socket.io;
+    * Principais tecnologias:
+      * TypeScript;
+      * ReactJs;
+      * Socket.io.
+ <br>
+
+    * [Lista de contatos](https://github.com/araujo21x/my_contacts):
+    * Descrição: Front-end com uma lista de usuarios usando uma api publica de lista de usuarios;
+    * Principais tecnologias:
+      * TypeScript;
+      * ReactJs.
+ <br>
+
+
  
  <h3 align="center"> Framework Ionic <img align="center" alt="icon-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"></h3>
  
